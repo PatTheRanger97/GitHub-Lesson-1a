@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("This is Da Wae")
+        print("That is not Da Wae")
     }
 
 
