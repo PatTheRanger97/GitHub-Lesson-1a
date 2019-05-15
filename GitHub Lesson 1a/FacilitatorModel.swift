@@ -13,6 +13,6 @@ class FacilitatorModel:LearnerModel {
     
     init(facilName: String, facilAge: Int, facilHeight: Float, facilImageProfile: String, facilPerk : String) {
         self.facilitatorPerk = facilPerk
-        super.init(learnerName: facilName, learnerAge: facilAge, learnerHeight: facilHeight, learnerImageProfile: facilImageProf)
+        super.init(learnerName: facilName, learnerAge: facilAge, learnerHeight: facilHeight, learnerImageProfile: facilImageProfile)
     }
 }
